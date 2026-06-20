@@ -209,7 +209,7 @@ Retail_OLTP_Data_Modeling_Project/
 ├── OLTP Data Model/
 │   └── OLTP Data Modeling.drawio.png
 │
-└── sql/
+└── Schema/
     └── python_db.sql
 ```
 
